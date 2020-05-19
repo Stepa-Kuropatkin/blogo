@@ -1,6 +1,9 @@
 import colors from 'vuetify/es5/util/colors'
 
 export default {
+  router: {
+    base: '/<blogo>/'
+  },
   mode: 'universal',
   /*
   ** Headers of the page
